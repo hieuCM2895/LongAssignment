@@ -1,0 +1,18 @@
+id      |      name     - first line to show information for input
+6  , Cao Minh Hiếu
+7  , Nguyễn Thị Vân Anh
+5  , Minh
+8  , Phát
+9  , Hải
+10 , Vy
+4  , Hiếu
+10 , Sơn
+
+
+
+
+
+
+
+
+

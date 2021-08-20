@@ -1,0 +1,8 @@
+----Enter id of customer for delete-----
+1
+2
+3
+4
+5
+6
+7
